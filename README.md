@@ -1,4 +1,4 @@
-Project Demo: <a target="_blank" href="https://findbashar.com/">See Project Demo</a> <br>
+Project Demo: <a target="_blank" href="https://bashar-ficom-app.000webhostapp.com/">See Project Demo</a> <br>
 Project Documentation: <a target="_blank" href="https://bashar-ficom-app.000webhostapp.com/documentation.html">See Project Documentation</a><br>
 Project Site Tour: <a target="_blank" href="https://www.youtube.com/watch?v=HKC2moB5jY8&t=1133s">See Project Tour</a><br><br>
 Bashar's Portfolio: <a target="_blank" href="https://findbashar.com/">See Bashar's Portfolio</a> <br>
