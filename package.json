@@ -1,0 +1,19 @@
+{
+    "title": "bashar_ficom",
+    "author": "Saiyedul Bashar",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "index.php"
+    },
+    "description": "this is file management & communication application with CMS",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://bashar-ficom-app.000webhostapp.com",
+    
+}
