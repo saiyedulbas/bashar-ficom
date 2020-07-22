@@ -1,0 +1,431 @@
+*{
+	margin:0;
+	padding:0;
+}
+.alert{
+	color:red;
+	font-size:20px;
+	font-style:italic;
+}
+.wrap{
+	width:30%;
+	margin:auto;
+	border:2px solid red;
+	padding:20px;
+}
+.accepted{
+	color:green;
+	font-style:italic;
+	font-size:20px;
+}
+.left{
+	width:20%;
+	height:1000px;
+	background:#2F4155;
+	float:left;
+}
+.right{
+	width:80%;
+	height:1000px;
+	background:#95a5a6;
+	float:left;
+}
+.totalwrap{
+	width:100%;
+	height:1000px;
+	
+	
+}
+.element{
+	display:block;
+	padding:20px;
+	background:#D24134;
+	margin-bottom:20px;
+	text-decoration:none;
+	color:white;
+	margin-top:40px;
+}
+.mina{
+	text-decoration: none;
+font-style: italic;
+font-size: 30px;
+color: white;
+background: #27ae60;
+padding: 19px;
+overflow: hidden;
+display: block;
+text-align: center;
+margin-top:40px;
+}
+.page{
+	overflow:hidden;
+	display:block;
+	padding:20px;
+	background:green;
+	color:white;
+	text-decoration:none;
+	margin-bottom:20px;
+}
+.tuna{
+	width: 50%;
+height: 54px;
+float: left;
+}
+.front{
+	background: red;
+padding: 20px;
+color: white;
+}
+.suma{
+	width: 50%;
+height: 55px;
+}
+.slogan{
+	width: 96.8%;
+
+height: 40px;
+
+overflow: hidden;
+
+display: block;
+
+padding: -2px;
+
+padding: 10px;
+
+font-size: 29px;
+}
+table tr th{
+	
+	height:40px;
+}
+table tr td{
+	height:100px;
+	text-align:center;
+	
+}
+.ui-dialog{
+	width:600px !important;
+	height:auto !important;
+	
+}
+.ui-dialog .ui-dialog-buttonpane{
+	margin-top:66px !important;
+}
+.inverse{
+	width: 265px;
+
+    height: 33px;
+
+    border-radius: 38px;
+    padding: 14px;
+
+    font-size: 20px;
+}
+.tree{
+	font-size: 21px;
+
+color: white;
+}
+#real{
+	width: 265px;
+
+    height: 33px;
+
+    border-radius: 38px;
+    padding: 14px;
+
+    font-size: 20px;
+}
+.pad{
+	padding:20px;
+}
+.chak{
+	cursor:pointer;
+}
+.demo{
+	cursor:pointer;
+}
+.info{
+	cursor:pointer;
+}
+.germ{
+	font-size:20px;
+	color:red;
+	border:2px solid green;
+	padding:10px;
+}
+.dish{
+	float: right;
+
+text-decoration: none;
+
+background:#0984e3;
+
+padding: 12px;
+
+overflow: hidden;
+
+display: block;
+
+border-radius: 20px;
+
+color: white;
+}
+.dish:hover{
+	background:#6c5ce7;
+}
+.raki{
+	color:white;
+	
+	
+	padding:20px;
+}
+.dekhi{
+	color:white;
+	background:#e17055;
+	padding:20px;
+	
+}
+.chak{
+	overflow: hidden;
+display: block;
+width: 144px;
+height: 48px;
+margin-left: 41px;
+border-radius: 23px;
+background: #ff7675;
+}
+.demo{
+	overflow: hidden;
+display: block;
+width: 144px;
+height: 48px;
+margin-left: 41px;
+border-radius: 23px;
+background: #0984e3;
+}
+.info{
+	overflow: hidden;
+display: block;
+width: 144px;
+height: 48px;
+margin-left: 41px;
+border-radius: 23px;
+background: #00b894;
+}
+.paagetitle{
+	display: block;
+width: 100%;
+padding: 20px;
+}
+.addpage{
+	overflow: hidden;
+display: block;
+width: 144px;
+height: 48px;
+
+border-radius: 23px;
+background: #00b894;
+cursor:pointer;
+}
+.ashol{
+	
+}
+
+
+
+#jaguar{
+	width: 265px;
+
+    height: 33px;
+
+    border-radius: 38px;
+    padding: 14px;
+
+    font-size: 20px;
+}
+.mim{
+	float:right;
+}
+.good,.bad{
+	float:left;
+	margin-right:20px;
+}
+.good{
+	text-decoration: none;
+background: #27AE60;
+padding: 12px;
+overflow: hidden;
+display: block;
+border-radius: 20px;
+color: white;
+width: 130px;
+text-align: center;
+transition:all 0.3s ease;
+}
+.bad{
+	text-decoration: none;
+background: #0984e3;
+padding: 12px;
+overflow: hidden;
+display: block;
+border-radius: 20px;
+color: white;
+width: 130px;
+text-align: center;
+transition:all 0.3s ease;
+}
+.good:hover{
+	background:green;
+}
+.bad:hover{
+	background:#6C5CE7;
+}
+#ui-id-1{
+	width:587px !important;
+}
+.same{
+	font-size: 34px;
+
+
+
+color: white;
+margin-top: 30px;
+margin-bottom: 20px;
+
+}
+.same1,.same2{
+	margin-left:37%;
+}
+.same3{
+	margin-left:26%;
+}
+.same4{
+	margin-left:32%;
+}
+.same5{
+	margin-left:40%;
+}
+.comeon{
+	font-size: 33px;
+
+color: white;
+}
+.chatbox{
+	
+}
+.chatbox2{
+	
+}
+.chattext{
+	
+
+}
+.chattext2{
+	
+
+}
+.chatsubmit{
+	
+}
+.chatsubmit2{
+	
+}
+.chatwrap{
+	
+}
+.chatwrap2{
+	
+}
+.dront{
+	
+
+color: #d63031;
+
+}
+.kront{
+	color:red;
+}
+.lama{
+	background:#55efc4;
+	padding:10px;
+	margin-bottom:10px;
+}
+.listy{
+	float:left;
+	margin-top:-400px;
+}
+.listy ul{
+	list-style-type:none;
+}
+
+
+.lat{
+	color: white;
+background: red;
+padding: 10px;
+margin-bottom: 33px;
+}
+.chatsubmit{
+	border-radius:34px;
+	cursor:pointer;
+}
+.userinfo{
+	list-style-type:none;
+}
+.messagesend{
+	list-style-type:none;
+}
+.livemessagesend{
+	list-style-type:none;
+}
+.banor{
+	
+}
+.uanor{
+	
+}
+
+
+.tanor{
+	
+}
+
+.inboxinfo{
+	width:700px;
+	height:700px;
+	background:white;
+	margin:auto;
+	overflow:scroll;
+}
+.zinka{
+	font-size: 31px;
+padding: red;
+background: red;
+padding: 20px;
+color: white;
+margin-bottom:20px;
+}
+.eito{
+	color:black;
+	background:#00cec9;
+	padding:20px;
+	margin-bottom:20px;
+}
+.bima{
+	background:#2E59D9;
+}
+
+.jhimao{
+	color: white;
+    background: blue;
+    padding: 30px;
+	
+}
+.jhimao2{
+	color: white;
+    background: red;
+    padding: 20px;
+	margin-bottom:30px;
+}

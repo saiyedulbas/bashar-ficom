@@ -1,0 +1,54 @@
+.ui-dialog-titlebar{
+	display:none;
+}
+.bumba{
+	font-size: 43px;
+
+margin-left: 27%;
+color: white;
+}
+.bumem{
+	color: white;
+font-size: 20px;
+margin-left: 25%;
+}
+.nimu{
+	color: white;
+font-size: 20px;
+margin-left: 38%;
+}
+.tanor{
+	text-decoration: none;
+color: black;
+background: #ffeaa7;
+padding: 30px;
+overflow: hidden;
+display: block;
+border-radius: 35px;
+margin-bottom: 20px;
+text-align:center;
+}
+.tanor:hover{
+	background: #fdcb6e;
+}
+.eggkhao{
+	color: white;
+background: red;
+padding: 30px;
+}
+.eggb{
+	width: 60%;
+
+height: 30px;
+
+padding: 20px;
+
+font-size: 15px;
+
+margin-top: 30px;
+}
+@media only screen and (max-width: 1310px) {
+  .listy{
+	  display:none;
+  }
+}

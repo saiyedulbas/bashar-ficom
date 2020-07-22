@@ -1,0 +1,48 @@
+.ui-dialog{
+	width:600px !important;
+	height:auto !important;
+	
+}
+.to{
+	text-decoration: none;
+overflow:hidden;
+background: #55efc4;
+
+padding: 30px;
+
+border-radius: 20px;
+
+font-size: 20px;
+
+color: white;
+
+display: block;
+
+width: 93%;
+}
+.to:hover{
+	background:#00b894;
+}
+.default{
+	overflow:hidden;
+	display:block;
+	background:#74b9ff;
+	padding:20px;
+	
+}
+.habit{
+	width: 297px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 29px;
+	
+}
+.bit{
+width:100px;
+height:50px;
+padding:10px;
+border-radius:29px;
+cursor:pointer;
+text-align:center;
+}	
+

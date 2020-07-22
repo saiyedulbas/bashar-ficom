@@ -1,0 +1,238 @@
+*{
+	margin:0;
+	padding:0;
+}
+.alert{
+	color:red;
+	font-size:20px;
+	font-style:italic;
+}
+.wrap{
+	width:30%;
+	margin:auto;
+	border:2px solid red;
+	padding:20px;
+}
+.accepted{
+	color:green;
+	font-style:italic;
+	font-size:20px;
+}
+.left{
+	width:20%;
+	height:3000px;
+	background:#2F4155;
+	float:left;
+}
+.right{
+	width:80%;
+	height:3000px;
+	background:#95a5a6;
+	float:left;
+}
+.totalwrap{
+	width:100%;
+	height:1000px;
+	
+	
+}
+.element{
+	display:block;
+	padding:20px;
+	background:#D24134;
+	margin-bottom:20px;
+	text-decoration:none;
+	color:white;
+	margin-top:40px;
+}
+.mina{
+	text-decoration: none;
+font-style: italic;
+font-size: 30px;
+color: white;
+background: #27ae60;
+padding: 19px;
+overflow: hidden;
+display: block;
+text-align: center;
+margin-top:40px;
+}
+.page{
+	overflow:hidden;
+	display:block;
+	padding:20px;
+	background:green;
+	color:white;
+	text-decoration:none;
+	margin-bottom:20px;
+}
+.tuna{
+	width: 50%;
+height: 54px;
+float: left;
+}
+.front{
+	
+}
+.suma{
+	width: 50%;
+height: 55px;
+}
+.slogan{
+	width: 96.8%;
+
+height: 40px;
+
+overflow: hidden;
+
+display: block;
+
+padding: -2px;
+
+padding: 10px;
+
+font-size: 29px;
+}
+table tr th{
+	
+	height:40px;
+}
+table tr td{
+	height:100px;
+	text-align:center;
+	
+}
+
+
+.inverse{
+	width: 265px;
+
+    height: 33px;
+
+    border-radius: 38px;
+    padding: 14px;
+
+    font-size: 20px;
+}
+.tree{
+	
+}
+#real{
+	width: 265px;
+
+    height: 33px;
+
+    border-radius: 38px;
+    padding: 14px;
+
+    font-size: 20px;
+}
+.pad{
+	padding:20px;
+}
+.chak{
+	cursor:pointer;
+}
+.demo{
+	cursor:pointer;
+}
+.info{
+	cursor:pointer;
+}
+.germ{
+	font-size:20px;
+	color:red;
+	border:2px solid green;
+	padding:10px;
+}
+.dish{
+	
+}
+
+.raki{
+	
+}
+.dekhi{
+	
+	
+}
+
+.demo{
+	
+}
+.info{
+	
+}
+.paagetitle{
+	display: block;
+width: 100%;
+padding: 20px;
+}
+.addpage{
+	overflow: hidden;
+display: block;
+width: 144px;
+height: 48px;
+
+border-radius: 23px;
+background: #00b894;
+cursor:pointer;
+}
+.ashol{
+	
+}
+
+
+
+
+#jaguar{
+	width: 265px;
+
+    height: 33px;
+
+    border-radius: 38px;
+    padding: 14px;
+
+    font-size: 20px;
+}
+.mim{
+	float:right;
+}
+.good,.bad{
+	float:left;
+	margin-right:20px;
+}
+.good{
+	
+}
+.bad{
+	
+}
+
+#ui-id-1{
+	width:587px !important;
+}
+.kado{
+	
+}
+
+.kano{
+	
+}
+
+.dina{
+	color: black;
+background: #81ecec;
+padding: 18px;
+}
+.luna{
+	
+}
+.adminto{
+	    
+}
+
+.nuu{
+	display:block;
+	margin-top:20px;
+}
